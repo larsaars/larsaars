@@ -1,8 +1,8 @@
 ### data science and ai student
-<!-- stack overflow-->
-<a href="https://stackoverflow.com/users/5899585/larsaars"><img src="https://stackexchange.com/users/flair/7799666.png" width="208" height="58" alt="profile for larsaars on StackOverflow" title="profile for larsaars on StackOverflow" /></a>
+
 <!-- kaggle -->
 <a href="https://www.kaggle.com/sralsmirnow/"><img src="https://raw.githubusercontent.com/larsaars/larsaars/main/kaggle_icon.png" width="58" height="58" alt="kaggle" title="kaggle" /></a>
+<!-- stack overflow--><a href="https://stackoverflow.com/users/5899585/larsaars"><img src="https://stackexchange.com/users/flair/7799666.png" width="208" height="58" alt="profile for larsaars on StackOverflow" title="profile for larsaars on StackOverflow" /></a>
 <br>
 <hr style="border:2px solid gray"> </hr>
 <br>
