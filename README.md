@@ -4,3 +4,7 @@
 <hr style="border:2px solid gray"> </hr>
 <br>
 <a href='https://play.google.com/store/apps/developer?id=Lurzapps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Lurzapps on Playstore' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' title="Lurzapps on Playstore" height="58"/></a> <a href="https://chess-45a81.web.app/#/"><img src="https://chess-45a81.web.app/favicon.png" width="58" height="58" alt="chess" title="chess" /></a>
+<br>
+<hr style="border:2px solid gray"> </hr>
+<br>
+![](https://komarev.com/ghpvc/?username=larsaars&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12)
