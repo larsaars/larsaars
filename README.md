@@ -11,6 +11,6 @@
 <br>
 <hr style="border:2px solid gray"> </hr>
 <br>
-<p align="center">
-  <a href='https://github.com/larsaars'><img alt='github stats' src='https://github-readme-stats.vercel.app/api?username=larsaars&show_icons=true&theme=solarized-light&include_all_commits=true'/></a> <a href='https://github.com/larsaars'><img alt='github stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=larsaars&show_icons=true&theme=solarized-light&layout=compact'/></a>
- </p>
+<a href='https://github.com/larsaars'><img alt='github stats' src='https://github-readme-stats.vercel.app/api?username=larsaars&show_icons=true&theme=solarized-light&include_all_commits=true'/></a>
+<br>
+ <a href='https://github.com/larsaars'><img alt='github stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=larsaars&show_icons=true&theme=solarized-light&layout=compact'/></a>
