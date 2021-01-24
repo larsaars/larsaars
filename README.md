@@ -1,4 +1,4 @@
-### data science and ai student <a href='https://github.com/larsaars'><img alt='profile views' src='https://komarev.com/ghpvc/?username=larsaars&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12' height='28'/></a>
+### data science and ai student <a href='https://github.com/larsaars'><img alt='profile views' src='https://komarev.com/ghpvc/?username=larsaars&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12'/></a>
 <br>
 <hr style="border:2px solid gray"> </hr>
 <br>
