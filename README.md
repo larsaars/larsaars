@@ -7,4 +7,4 @@
 <br>
 <hr style="border:2px solid gray"> </hr>
 <br>
-![](https://komarev.com/ghpvc/?username=larsaars&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12)
+<a href='https://github.com/larsaars'><img alt='profile views' src='https://komarev.com/ghpvc/?username=larsaars&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12' height='58'/></a>
