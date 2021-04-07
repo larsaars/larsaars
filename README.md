@@ -16,4 +16,4 @@
 <br>
 
 * [linux setup](https://github.com/larsaars/linux-setup)
-* [vim shortcuts](https://gist.github.com/larsaars/b3ec6df54fbb0ce31b740c8afbe949e9")
+* [vim shortcuts](https://gist.github.com/larsaars/b3ec6df54fbb0ce31b740c8afbe949e9)
