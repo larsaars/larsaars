@@ -15,3 +15,4 @@
 <hr style="border:2px solid gray"> </hr>
 <br>
 - <a href="https://github.com/larsaars/linux-setup">linux setup</a>
+- <a href="https://gist.github.com/larsaars/b3ec6df54fbb0ce31b740c8afbe949e9">vim shortcuts</a>
