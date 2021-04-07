@@ -15,6 +15,5 @@
 <hr style="border:2px solid gray"> </hr>
 <br>
 
-
-* [linux setup]("https://github.com/larsaars/linux-setup")
+* [linux setup](https://github.com/larsaars/linux-setup)
 * [vim shortcuts](https://gist.github.com/larsaars/b3ec6df54fbb0ce31b740c8afbe949e9")
