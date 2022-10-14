@@ -19,4 +19,5 @@
 
 * [linux setup](https://github.com/larsaars/linux-setup)
 * [vim shortcuts](https://github.com/larsaars/vim-shortcuts)
+* [World Crisis Map](https://worldcrisismap.com)
 
