@@ -13,7 +13,7 @@
 <br>
 <hr style="border:2px solid gray"> </hr>
 <br>
-<a href='https://play.google.com/store/apps/developer?id=Lurzapps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Lurzapps on Playstore' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' title="Lurzapps on Playstore" height="58"/></a> <a href="https://chess-45a81.web.app/#/"><img src="https://chess-45a81.web.app/favicon.png" width="58" height="58" alt="chess" title="chess" /></a> <a href="https://worldcrisismap.com"><img src="https://worldcrisismap.com/favicon/android-chrome-192x192.png" width="58" height="58" alt="World Crisis Map" title="World Crisis Map" /></a> <a href="https://larsaars-question-game.web.app"><img src="https://larsaars-question-game.web.app/favicon.ico" width="58" height="58" alt="Question Game" title="Question Game"/></a>
+<a href='https://play.google.com/store/apps/developer?id=Lurzapps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Lurzapps on Playstore' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' title="Lurzapps on Playstore" height="58"/></a> <a href="https://chess-45a81.web.app/#/"><img src="https://chess-45a81.web.app/favicon.png" width="58" height="58" alt="chess" title="chess" /></a> <a href="https://worldcrisismap.com"><img src="https://worldcrisismap.com/favicon/android-chrome-192x192.png" width="58" height="58" alt="World Crisis Map" title="World Crisis Map" /></a> <a href="https://freitagabend.com"><img src="https://larsaars-question-game.web.app/favicon.ico" width="58" height="58" alt="freitagabend!" title="freitagabend!"/></a>
 <hr style="border:2px solid gray"> </hr>
 <br>
 
